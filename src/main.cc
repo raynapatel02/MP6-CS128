@@ -26,39 +26,50 @@ int main(int argc, char* argv[]) {
 
   /* UNCOMMENT COMMENTED CODE BELOW AS YOU IMPLEMENT */
 
-  // ImagePPM image;
-  // infile >> image;
-  // infile.close();
+  ImagePPM image;
+  infile >> image;
+  infile.close();
 
-  // SeamCarver carver( image );
-  // for ( int i = 2; i < argc - 2; i += 2 ) {
-  //   std::string times_string = argv[i + 1];
-  //   int times = 0;
-  //   try {
-  //     times = std::stoi( times_string );
-  //   } catch ( const std::exception& e ) {
-  //     std::cout << "Malformed option" << std::endl;
-  //     PrintUsage( argv[0] );
-  //     return 1;
-  //   }
+  std::cout << "ImagePPM was successfully constructed" << std::endl;
 
-  //   std::string option = argv[i];
-  //   if ( option == "-h" ) {
-  //     for ( int t = 0; t < times; t++ ) {
-  //       carver.RemoveHorizontalSeam();
-  //     }
-  //   } else if ( option == "-v" ) {
-  //     for ( int t = 0; t < times; t++ ) {
-  //       carver.RemoveVerticalSeam();
-  //     }
-  //   } else {
-  //     std::cout << argv[i] << " not an option" << std::endl;
-  //     PrintUsage( argv[0] );
-  //     return 1;
-  //   }
-  // }
+  SeamCarver carver( image );
 
-  // std::ofstream outfile( argv[argc - 1] );
-  // outfile << carver.GetImage();
-  // outfile.close();
+  std::cout << "constructed SeamCarver successfully" << std::endl;
+
+  for ( int i = 2; i < argc - 2; i += 2 ) {
+    std::string times_string = argv[i + 1];
+    int times = 0;
+    try {
+      times = std::stoi( times_string );
+    } catch ( const std::exception& e ) {
+      std::cout << "Malformed option" << std::endl;
+      PrintUsage( argv[0] );
+      return 1;
+    }
+
+    std::string option = argv[i];
+    if ( option == "-h" ) {
+      for ( int t = 0; t < times; t++ ) {
+        std::cout << "removing horizontal seam, t = " << t << std::endl;
+        carver.RemoveHorizontalSeam();
+        std::cout << " done removing horizontal seam, t = " << t << std::endl;
+
+      }
+    } else if ( option == "-v" ) {
+      for ( int t = 0; t < times; t++ ) {
+        std::cout << "removing vertical seam, t = " << t << std::endl;
+        carver.RemoveVerticalSeam();
+        std::cout << "done removing vertical seam, t = " << t << std::endl;
+
+      }
+    } else {
+      std::cout << argv[i] << " not an option" << std::endl;
+      PrintUsage( argv[0] );
+      return 1;
+    }
+  }
+  std::cout << "i am here" << std::endl;
+  std::ofstream outfile( argv[argc - 1] );
+  outfile << carver.GetImage();
+  outfile.close();
 }

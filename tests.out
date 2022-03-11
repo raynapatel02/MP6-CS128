@@ -1,0 +1,1295 @@
+ImagePPM was successfully constructed
+constructed SeamCarver successfully
+removing vertical seam, t = 0
+Remove Vertical Seam was called
+value of i: 0 address of value of i is: 0x208b7a0 and address of values is: 0x208aeb0
+value of i: 1 address of value of i is: 0x208bfa0 and address of values is: 0x208aeb0
+value of i: 2 address of value of i is: 0x208c7a0 and address of values is: 0x208aeb0
+value of i: 3 address of value of i is: 0x208cfa0 and address of values is: 0x208aeb0
+value of i: 4 address of value of i is: 0x208d7a0 and address of values is: 0x208aeb0
+value of i: 5 address of value of i is: 0x208dfa0 and address of values is: 0x208aeb0
+value of i: 6 address of value of i is: 0x208e7a0 and address of values is: 0x208aeb0
+value of i: 7 address of value of i is: 0x208efa0 and address of values is: 0x208aeb0
+value of i: 8 address of value of i is: 0x208f7a0 and address of values is: 0x208aeb0
+value of i: 9 address of value of i is: 0x208ffa0 and address of values is: 0x208aeb0
+value of i: 10 address of value of i is: 0x20907a0 and address of values is: 0x208aeb0
+value of i: 11 address of value of i is: 0x2090fa0 and address of values is: 0x208aeb0
+value of i: 12 address of value of i is: 0x20917a0 and address of values is: 0x208aeb0
+value of i: 13 address of value of i is: 0x2091fa0 and address of values is: 0x208aeb0
+value of i: 14 address of value of i is: 0x20927a0 and address of values is: 0x208aeb0
+value of i: 15 address of value of i is: 0x2092fa0 and address of values is: 0x208aeb0
+value of i: 16 address of value of i is: 0x20937a0 and address of values is: 0x208aeb0
+value of i: 17 address of value of i is: 0x2093fa0 and address of values is: 0x208aeb0
+value of i: 18 address of value of i is: 0x20947a0 and address of values is: 0x208aeb0
+value of i: 19 address of value of i is: 0x2094fa0 and address of values is: 0x208aeb0
+value of i: 20 address of value of i is: 0x20957a0 and address of values is: 0x208aeb0
+value of i: 21 address of value of i is: 0x2095fa0 and address of values is: 0x208aeb0
+value of i: 22 address of value of i is: 0x20967a0 and address of values is: 0x208aeb0
+value of i: 23 address of value of i is: 0x2096fa0 and address of values is: 0x208aeb0
+value of i: 24 address of value of i is: 0x20977a0 and address of values is: 0x208aeb0
+value of i: 25 address of value of i is: 0x2097fa0 and address of values is: 0x208aeb0
+value of i: 26 address of value of i is: 0x20987a0 and address of values is: 0x208aeb0
+value of i: 27 address of value of i is: 0x2098fa0 and address of values is: 0x208aeb0
+value of i: 28 address of value of i is: 0x20997a0 and address of values is: 0x208aeb0
+value of i: 29 address of value of i is: 0x2099fa0 and address of values is: 0x208aeb0
+value of i: 30 address of value of i is: 0x209a7a0 and address of values is: 0x208aeb0
+value of i: 31 address of value of i is: 0x209afa0 and address of values is: 0x208aeb0
+value of i: 32 address of value of i is: 0x209b7a0 and address of values is: 0x208aeb0
+value of i: 33 address of value of i is: 0x209bfa0 and address of values is: 0x208aeb0
+value of i: 34 address of value of i is: 0x209c7a0 and address of values is: 0x208aeb0
+value of i: 35 address of value of i is: 0x209cfa0 and address of values is: 0x208aeb0
+value of i: 36 address of value of i is: 0x209d7a0 and address of values is: 0x208aeb0
+value of i: 37 address of value of i is: 0x209dfa0 and address of values is: 0x208aeb0
+value of i: 38 address of value of i is: 0x209e7a0 and address of values is: 0x208aeb0
+value of i: 39 address of value of i is: 0x209efa0 and address of values is: 0x208aeb0
+value of i: 40 address of value of i is: 0x209f7a0 and address of values is: 0x208aeb0
+value of i: 41 address of value of i is: 0x209ffa0 and address of values is: 0x208aeb0
+value of i: 42 address of value of i is: 0x20a07a0 and address of values is: 0x208aeb0
+value of i: 43 address of value of i is: 0x20a0fa0 and address of values is: 0x208aeb0
+value of i: 44 address of value of i is: 0x20a17a0 and address of values is: 0x208aeb0
+value of i: 45 address of value of i is: 0x20a1fa0 and address of values is: 0x208aeb0
+value of i: 46 address of value of i is: 0x20a27a0 and address of values is: 0x208aeb0
+value of i: 47 address of value of i is: 0x20a2fa0 and address of values is: 0x208aeb0
+value of i: 48 address of value of i is: 0x20a37a0 and address of values is: 0x208aeb0
+value of i: 49 address of value of i is: 0x20a3fa0 and address of values is: 0x208aeb0
+value of i: 50 address of value of i is: 0x20a47a0 and address of values is: 0x208aeb0
+value of i: 51 address of value of i is: 0x20a4fa0 and address of values is: 0x208aeb0
+value of i: 52 address of value of i is: 0x20a57a0 and address of values is: 0x208aeb0
+value of i: 53 address of value of i is: 0x20a5fa0 and address of values is: 0x208aeb0
+value of i: 54 address of value of i is: 0x20a67a0 and address of values is: 0x208aeb0
+value of i: 55 address of value of i is: 0x20a6fa0 and address of values is: 0x208aeb0
+value of i: 56 address of value of i is: 0x20a77a0 and address of values is: 0x208aeb0
+value of i: 57 address of value of i is: 0x20a7fa0 and address of values is: 0x208aeb0
+value of i: 58 address of value of i is: 0x20a87a0 and address of values is: 0x208aeb0
+value of i: 59 address of value of i is: 0x20a8fa0 and address of values is: 0x208aeb0
+value of i: 60 address of value of i is: 0x20a97a0 and address of values is: 0x208aeb0
+value of i: 61 address of value of i is: 0x20a9fa0 and address of values is: 0x208aeb0
+value of i: 62 address of value of i is: 0x20aa7a0 and address of values is: 0x208aeb0
+value of i: 63 address of value of i is: 0x20aafa0 and address of values is: 0x208aeb0
+value of i: 64 address of value of i is: 0x20ab7a0 and address of values is: 0x208aeb0
+value of i: 65 address of value of i is: 0x20abfa0 and address of values is: 0x208aeb0
+value of i: 66 address of value of i is: 0x20ac7a0 and address of values is: 0x208aeb0
+value of i: 67 address of value of i is: 0x20acfa0 and address of values is: 0x208aeb0
+value of i: 68 address of value of i is: 0x20ad7a0 and address of values is: 0x208aeb0
+value of i: 69 address of value of i is: 0x20adfa0 and address of values is: 0x208aeb0
+value of i: 70 address of value of i is: 0x20ae7a0 and address of values is: 0x208aeb0
+value of i: 71 address of value of i is: 0x20aefa0 and address of values is: 0x208aeb0
+value of i: 72 address of value of i is: 0x20af7a0 and address of values is: 0x208aeb0
+value of i: 73 address of value of i is: 0x20affa0 and address of values is: 0x208aeb0
+value of i: 74 address of value of i is: 0x20b07a0 and address of values is: 0x208aeb0
+value of i: 75 address of value of i is: 0x20b0fa0 and address of values is: 0x208aeb0
+value of i: 76 address of value of i is: 0x20b17a0 and address of values is: 0x208aeb0
+value of i: 77 address of value of i is: 0x20b1fa0 and address of values is: 0x208aeb0
+value of i: 78 address of value of i is: 0x20b27a0 and address of values is: 0x208aeb0
+value of i: 79 address of value of i is: 0x20b2fa0 and address of values is: 0x208aeb0
+value of i: 80 address of value of i is: 0x20b37a0 and address of values is: 0x208aeb0
+value of i: 81 address of value of i is: 0x20b3fa0 and address of values is: 0x208aeb0
+value of i: 82 address of value of i is: 0x20b47a0 and address of values is: 0x208aeb0
+value of i: 83 address of value of i is: 0x20b4fa0 and address of values is: 0x208aeb0
+value of i: 84 address of value of i is: 0x20b57a0 and address of values is: 0x208aeb0
+value of i: 85 address of value of i is: 0x20b5fa0 and address of values is: 0x208aeb0
+value of i: 86 address of value of i is: 0x20b67a0 and address of values is: 0x208aeb0
+value of i: 87 address of value of i is: 0x20b6fa0 and address of values is: 0x208aeb0
+value of i: 88 address of value of i is: 0x20b77a0 and address of values is: 0x208aeb0
+value of i: 89 address of value of i is: 0x20b7fa0 and address of values is: 0x208aeb0
+value of i: 90 address of value of i is: 0x20b87a0 and address of values is: 0x208aeb0
+value of i: 91 address of value of i is: 0x20b8fa0 and address of values is: 0x208aeb0
+value of i: 92 address of value of i is: 0x20b97a0 and address of values is: 0x208aeb0
+value of i: 93 address of value of i is: 0x20b9fa0 and address of values is: 0x208aeb0
+value of i: 94 address of value of i is: 0x20ba7a0 and address of values is: 0x208aeb0
+value of i: 95 address of value of i is: 0x20bafa0 and address of values is: 0x208aeb0
+value of i: 96 address of value of i is: 0x20bb7a0 and address of values is: 0x208aeb0
+value of i: 97 address of value of i is: 0x20bbfa0 and address of values is: 0x208aeb0
+value of i: 98 address of value of i is: 0x20bc7a0 and address of values is: 0x208aeb0
+value of i: 99 address of value of i is: 0x20bcfa0 and address of values is: 0x208aeb0
+value of i: 100 address of value of i is: 0x20bd7a0 and address of values is: 0x208aeb0
+value of i: 101 address of value of i is: 0x20bdfa0 and address of values is: 0x208aeb0
+value of i: 102 address of value of i is: 0x20be7a0 and address of values is: 0x208aeb0
+value of i: 103 address of value of i is: 0x20befa0 and address of values is: 0x208aeb0
+value of i: 104 address of value of i is: 0x20bf7a0 and address of values is: 0x208aeb0
+value of i: 105 address of value of i is: 0x20bffa0 and address of values is: 0x208aeb0
+value of i: 106 address of value of i is: 0x20c07a0 and address of values is: 0x208aeb0
+value of i: 107 address of value of i is: 0x20c0fa0 and address of values is: 0x208aeb0
+value of i: 108 address of value of i is: 0x20c17a0 and address of values is: 0x208aeb0
+value of i: 109 address of value of i is: 0x20c1fa0 and address of values is: 0x208aeb0
+value of i: 110 address of value of i is: 0x20c27a0 and address of values is: 0x208aeb0
+value of i: 111 address of value of i is: 0x20c2fa0 and address of values is: 0x208aeb0
+value of i: 112 address of value of i is: 0x20c37a0 and address of values is: 0x208aeb0
+value of i: 113 address of value of i is: 0x20c3fa0 and address of values is: 0x208aeb0
+value of i: 114 address of value of i is: 0x20c47a0 and address of values is: 0x208aeb0
+value of i: 115 address of value of i is: 0x20c4fa0 and address of values is: 0x208aeb0
+value of i: 116 address of value of i is: 0x20c57a0 and address of values is: 0x208aeb0
+value of i: 117 address of value of i is: 0x20c5fa0 and address of values is: 0x208aeb0
+value of i: 118 address of value of i is: 0x20c67a0 and address of values is: 0x208aeb0
+value of i: 119 address of value of i is: 0x20c6fa0 and address of values is: 0x208aeb0
+value of i: 120 address of value of i is: 0x20c77a0 and address of values is: 0x208aeb0
+value of i: 121 address of value of i is: 0x20c7fa0 and address of values is: 0x208aeb0
+value of i: 122 address of value of i is: 0x20c87a0 and address of values is: 0x208aeb0
+value of i: 123 address of value of i is: 0x20c8fa0 and address of values is: 0x208aeb0
+value of i: 124 address of value of i is: 0x20c97a0 and address of values is: 0x208aeb0
+value of i: 125 address of value of i is: 0x20c9fa0 and address of values is: 0x208aeb0
+value of i: 126 address of value of i is: 0x20ca7a0 and address of values is: 0x208aeb0
+value of i: 127 address of value of i is: 0x20cafa0 and address of values is: 0x208aeb0
+value of i: 128 address of value of i is: 0x20cb7a0 and address of values is: 0x208aeb0
+value of i: 129 address of value of i is: 0x20cbfa0 and address of values is: 0x208aeb0
+value of i: 130 address of value of i is: 0x20cc7a0 and address of values is: 0x208aeb0
+value of i: 131 address of value of i is: 0x20ccfa0 and address of values is: 0x208aeb0
+value of i: 132 address of value of i is: 0x20cd7a0 and address of values is: 0x208aeb0
+value of i: 133 address of value of i is: 0x20cdfa0 and address of values is: 0x208aeb0
+value of i: 134 address of value of i is: 0x20ce7a0 and address of values is: 0x208aeb0
+value of i: 135 address of value of i is: 0x20cefa0 and address of values is: 0x208aeb0
+value of i: 136 address of value of i is: 0x20cf7a0 and address of values is: 0x208aeb0
+value of i: 137 address of value of i is: 0x20cffa0 and address of values is: 0x208aeb0
+value of i: 138 address of value of i is: 0x20d07a0 and address of values is: 0x208aeb0
+value of i: 139 address of value of i is: 0x20d0fa0 and address of values is: 0x208aeb0
+value of i: 140 address of value of i is: 0x20d17a0 and address of values is: 0x208aeb0
+value of i: 141 address of value of i is: 0x20d1fa0 and address of values is: 0x208aeb0
+value of i: 142 address of value of i is: 0x20d27a0 and address of values is: 0x208aeb0
+value of i: 143 address of value of i is: 0x20d2fa0 and address of values is: 0x208aeb0
+value of i: 144 address of value of i is: 0x20d37a0 and address of values is: 0x208aeb0
+value of i: 145 address of value of i is: 0x20d3fa0 and address of values is: 0x208aeb0
+value of i: 146 address of value of i is: 0x20d47a0 and address of values is: 0x208aeb0
+value of i: 147 address of value of i is: 0x20d4fa0 and address of values is: 0x208aeb0
+value of i: 148 address of value of i is: 0x20d57a0 and address of values is: 0x208aeb0
+value of i: 149 address of value of i is: 0x20d5fa0 and address of values is: 0x208aeb0
+value of i: 150 address of value of i is: 0x20d67a0 and address of values is: 0x208aeb0
+value of i: 151 address of value of i is: 0x20d6fa0 and address of values is: 0x208aeb0
+value of i: 152 address of value of i is: 0x20d77a0 and address of values is: 0x208aeb0
+value of i: 153 address of value of i is: 0x20d7fa0 and address of values is: 0x208aeb0
+value of i: 154 address of value of i is: 0x20d87a0 and address of values is: 0x208aeb0
+value of i: 155 address of value of i is: 0x20d8fa0 and address of values is: 0x208aeb0
+value of i: 156 address of value of i is: 0x20d97a0 and address of values is: 0x208aeb0
+value of i: 157 address of value of i is: 0x20d9fa0 and address of values is: 0x208aeb0
+value of i: 158 address of value of i is: 0x20da7a0 and address of values is: 0x208aeb0
+value of i: 159 address of value of i is: 0x20dafa0 and address of values is: 0x208aeb0
+value of i: 160 address of value of i is: 0x20db7a0 and address of values is: 0x208aeb0
+value of i: 161 address of value of i is: 0x20dbfa0 and address of values is: 0x208aeb0
+value of i: 162 address of value of i is: 0x20dc7a0 and address of values is: 0x208aeb0
+value of i: 163 address of value of i is: 0x20dcfa0 and address of values is: 0x208aeb0
+value of i: 164 address of value of i is: 0x20dd7a0 and address of values is: 0x208aeb0
+value of i: 165 address of value of i is: 0x20ddfa0 and address of values is: 0x208aeb0
+value of i: 166 address of value of i is: 0x20de7a0 and address of values is: 0x208aeb0
+value of i: 167 address of value of i is: 0x20defa0 and address of values is: 0x208aeb0
+value of i: 168 address of value of i is: 0x20df7a0 and address of values is: 0x208aeb0
+value of i: 169 address of value of i is: 0x20dffa0 and address of values is: 0x208aeb0
+value of i: 170 address of value of i is: 0x20e07a0 and address of values is: 0x208aeb0
+value of i: 171 address of value of i is: 0x20e0fa0 and address of values is: 0x208aeb0
+value of i: 172 address of value of i is: 0x20e17a0 and address of values is: 0x208aeb0
+value of i: 173 address of value of i is: 0x20e1fa0 and address of values is: 0x208aeb0
+value of i: 174 address of value of i is: 0x20e27a0 and address of values is: 0x208aeb0
+value of i: 175 address of value of i is: 0x20e2fa0 and address of values is: 0x208aeb0
+value of i: 176 address of value of i is: 0x20e37a0 and address of values is: 0x208aeb0
+value of i: 177 address of value of i is: 0x20e3fa0 and address of values is: 0x208aeb0
+value of i: 178 address of value of i is: 0x20e47a0 and address of values is: 0x208aeb0
+value of i: 179 address of value of i is: 0x20e4fa0 and address of values is: 0x208aeb0
+value of i: 180 address of value of i is: 0x20e57a0 and address of values is: 0x208aeb0
+value of i: 181 address of value of i is: 0x20e5fa0 and address of values is: 0x208aeb0
+value of i: 182 address of value of i is: 0x20e67a0 and address of values is: 0x208aeb0
+value of i: 183 address of value of i is: 0x20e6fa0 and address of values is: 0x208aeb0
+value of i: 184 address of value of i is: 0x20e77a0 and address of values is: 0x208aeb0
+value of i: 185 address of value of i is: 0x20e7fa0 and address of values is: 0x208aeb0
+value of i: 186 address of value of i is: 0x20e87a0 and address of values is: 0x208aeb0
+value of i: 187 address of value of i is: 0x20e8fa0 and address of values is: 0x208aeb0
+value of i: 188 address of value of i is: 0x20e97a0 and address of values is: 0x208aeb0
+value of i: 189 address of value of i is: 0x20e9fa0 and address of values is: 0x208aeb0
+value of i: 190 address of value of i is: 0x20ea7a0 and address of values is: 0x208aeb0
+value of i: 191 address of value of i is: 0x20eafa0 and address of values is: 0x208aeb0
+value of i: 192 address of value of i is: 0x20eb7a0 and address of values is: 0x208aeb0
+value of i: 193 address of value of i is: 0x20ebfa0 and address of values is: 0x208aeb0
+value of i: 194 address of value of i is: 0x20ec7a0 and address of values is: 0x208aeb0
+value of i: 195 address of value of i is: 0x20ecfa0 and address of values is: 0x208aeb0
+value of i: 196 address of value of i is: 0x20ed7a0 and address of values is: 0x208aeb0
+value of i: 197 address of value of i is: 0x20edfa0 and address of values is: 0x208aeb0
+value of i: 198 address of value of i is: 0x20ee7a0 and address of values is: 0x208aeb0
+value of i: 199 address of value of i is: 0x20eefa0 and address of values is: 0x208aeb0
+value of i: 200 address of value of i is: 0x20ef7a0 and address of values is: 0x208aeb0
+value of i: 201 address of value of i is: 0x20effa0 and address of values is: 0x208aeb0
+value of i: 202 address of value of i is: 0x20f07a0 and address of values is: 0x208aeb0
+value of i: 203 address of value of i is: 0x20f0fa0 and address of values is: 0x208aeb0
+value of i: 204 address of value of i is: 0x20f17a0 and address of values is: 0x208aeb0
+value of i: 205 address of value of i is: 0x20f1fa0 and address of values is: 0x208aeb0
+value of i: 206 address of value of i is: 0x20f27a0 and address of values is: 0x208aeb0
+value of i: 207 address of value of i is: 0x20f2fa0 and address of values is: 0x208aeb0
+value of i: 208 address of value of i is: 0x20f37a0 and address of values is: 0x208aeb0
+value of i: 209 address of value of i is: 0x20f3fa0 and address of values is: 0x208aeb0
+value of i: 210 address of value of i is: 0x20f47a0 and address of values is: 0x208aeb0
+value of i: 211 address of value of i is: 0x20f4fa0 and address of values is: 0x208aeb0
+value of i: 212 address of value of i is: 0x20f57a0 and address of values is: 0x208aeb0
+value of i: 213 address of value of i is: 0x20f5fa0 and address of values is: 0x208aeb0
+value of i: 214 address of value of i is: 0x20f67a0 and address of values is: 0x208aeb0
+value of i: 215 address of value of i is: 0x20f6fa0 and address of values is: 0x208aeb0
+value of i: 216 address of value of i is: 0x20f77a0 and address of values is: 0x208aeb0
+value of i: 217 address of value of i is: 0x20f7fa0 and address of values is: 0x208aeb0
+value of i: 218 address of value of i is: 0x20f87a0 and address of values is: 0x208aeb0
+value of i: 219 address of value of i is: 0x20f8fa0 and address of values is: 0x208aeb0
+value of i: 220 address of value of i is: 0x20f97a0 and address of values is: 0x208aeb0
+value of i: 221 address of value of i is: 0x20f9fa0 and address of values is: 0x208aeb0
+value of i: 222 address of value of i is: 0x20fa7a0 and address of values is: 0x208aeb0
+value of i: 223 address of value of i is: 0x20fafa0 and address of values is: 0x208aeb0
+value of i: 224 address of value of i is: 0x20fb7a0 and address of values is: 0x208aeb0
+value of i: 225 address of value of i is: 0x20fbfa0 and address of values is: 0x208aeb0
+value of i: 226 address of value of i is: 0x20fc7a0 and address of values is: 0x208aeb0
+value of i: 227 address of value of i is: 0x20fcfa0 and address of values is: 0x208aeb0
+value of i: 228 address of value of i is: 0x20fd7a0 and address of values is: 0x208aeb0
+value of i: 229 address of value of i is: 0x20fdfa0 and address of values is: 0x208aeb0
+value of i: 230 address of value of i is: 0x20fe7a0 and address of values is: 0x208aeb0
+value of i: 231 address of value of i is: 0x20fefa0 and address of values is: 0x208aeb0
+value of i: 232 address of value of i is: 0x20ff7a0 and address of values is: 0x208aeb0
+value of i: 233 address of value of i is: 0x20fffa0 and address of values is: 0x208aeb0
+value of i: 234 address of value of i is: 0x21007a0 and address of values is: 0x208aeb0
+value of i: 235 address of value of i is: 0x2100fa0 and address of values is: 0x208aeb0
+value of i: 236 address of value of i is: 0x21017a0 and address of values is: 0x208aeb0
+value of i: 237 address of value of i is: 0x2101fa0 and address of values is: 0x208aeb0
+value of i: 238 address of value of i is: 0x21027a0 and address of values is: 0x208aeb0
+value of i: 239 address of value of i is: 0x2102fa0 and address of values is: 0x208aeb0
+value of i: 240 address of value of i is: 0x21037a0 and address of values is: 0x208aeb0
+value of i: 241 address of value of i is: 0x2103fa0 and address of values is: 0x208aeb0
+value of i: 242 address of value of i is: 0x21047a0 and address of values is: 0x208aeb0
+value of i: 243 address of value of i is: 0x2104fa0 and address of values is: 0x208aeb0
+value of i: 244 address of value of i is: 0x21057a0 and address of values is: 0x208aeb0
+value of i: 245 address of value of i is: 0x2105fa0 and address of values is: 0x208aeb0
+value of i: 246 address of value of i is: 0x21067a0 and address of values is: 0x208aeb0
+value of i: 247 address of value of i is: 0x2106fa0 and address of values is: 0x208aeb0
+value of i: 248 address of value of i is: 0x21077a0 and address of values is: 0x208aeb0
+value of i: 249 address of value of i is: 0x2107fa0 and address of values is: 0x208aeb0
+value of i: 250 address of value of i is: 0x21087a0 and address of values is: 0x208aeb0
+value of i: 251 address of value of i is: 0x2108fa0 and address of values is: 0x208aeb0
+value of i: 252 address of value of i is: 0x21097a0 and address of values is: 0x208aeb0
+value of i: 253 address of value of i is: 0x2109fa0 and address of values is: 0x208aeb0
+value of i: 254 address of value of i is: 0x210a7a0 and address of values is: 0x208aeb0
+value of i: 255 address of value of i is: 0x210afa0 and address of values is: 0x208aeb0
+value of i: 256 address of value of i is: 0x210b7a0 and address of values is: 0x208aeb0
+value of i: 257 address of value of i is: 0x210bfa0 and address of values is: 0x208aeb0
+value of i: 258 address of value of i is: 0x210c7a0 and address of values is: 0x208aeb0
+value of i: 259 address of value of i is: 0x210cfa0 and address of values is: 0x208aeb0
+value of i: 260 address of value of i is: 0x210d7a0 and address of values is: 0x208aeb0
+value of i: 261 address of value of i is: 0x210dfa0 and address of values is: 0x208aeb0
+value of i: 262 address of value of i is: 0x210e7a0 and address of values is: 0x208aeb0
+value of i: 263 address of value of i is: 0x210efa0 and address of values is: 0x208aeb0
+value of i: 264 address of value of i is: 0x210f7a0 and address of values is: 0x208aeb0
+value of i: 265 address of value of i is: 0x210ffa0 and address of values is: 0x208aeb0
+value of i: 266 address of value of i is: 0x21107a0 and address of values is: 0x208aeb0
+value of i: 267 address of value of i is: 0x2110fa0 and address of values is: 0x208aeb0
+value of i: 268 address of value of i is: 0x21117a0 and address of values is: 0x208aeb0
+value of i: 269 address of value of i is: 0x2111fa0 and address of values is: 0x208aeb0
+value of i: 270 address of value of i is: 0x21127a0 and address of values is: 0x208aeb0
+value of i: 271 address of value of i is: 0x2112fa0 and address of values is: 0x208aeb0
+value of i: 272 address of value of i is: 0x21137a0 and address of values is: 0x208aeb0
+value of i: 273 address of value of i is: 0x2113fa0 and address of values is: 0x208aeb0
+value of i: 274 address of value of i is: 0x21147a0 and address of values is: 0x208aeb0
+value of i: 275 address of value of i is: 0x2114fa0 and address of values is: 0x208aeb0
+value of i: 276 address of value of i is: 0x21157a0 and address of values is: 0x208aeb0
+value of i: 277 address of value of i is: 0x2115fa0 and address of values is: 0x208aeb0
+value of i: 278 address of value of i is: 0x21167a0 and address of values is: 0x208aeb0
+value of i: 279 address of value of i is: 0x2116fa0 and address of values is: 0x208aeb0
+value of i: 280 address of value of i is: 0x21177a0 and address of values is: 0x208aeb0
+value of i: 281 address of value of i is: 0x2117fa0 and address of values is: 0x208aeb0
+value of i: 282 address of value of i is: 0x21187a0 and address of values is: 0x208aeb0
+value of i: 283 address of value of i is: 0x2118fa0 and address of values is: 0x208aeb0
+value of i: 284 address of value of i is: 0x21197a0 and address of values is: 0x208aeb0
+successfully constructed values in GetVerticalSeam
+done processing last row in GetVerticalSeam
+found best in GetVerticalSeam
+size of int** is: 8 and size of int* is: 8
+address of vertical seam is: 0x208aeb0
+this is the width: 507
+pointer to pointer vert seam finder created in CarveSeamVertical
+i'm done setting first min index
+vert seam adjusted and seam carver set to min index
+going through the heights, i = 1address of vertical seam plus i is: 0x208bfa0
+i got to min - 1 exception, and min index is: 0
+setting seam_carver[i], min idx = 1
+going through the heights, i = 2address of vertical seam plus i is: 0x208c7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 3address of vertical seam plus i is: 0x208cfa0
+i got to normal instance, and min index is: 2
+down right is: 57906 down is: 59680 down_left is: 59667
+setting seam_carver[i], min idx = 1
+going through the heights, i = 4address of vertical seam plus i is: 0x208d7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 5address of vertical seam plus i is: 0x208dfa0
+i got to normal instance, and min index is: 2
+down right is: 59696 down is: 59694 down_left is: 59612
+setting seam_carver[i], min idx = 1
+going through the heights, i = 6address of vertical seam plus i is: 0x208e7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 7address of vertical seam plus i is: 0x208efa0
+i got to normal instance, and min index is: 2
+down right is: 59581 down is: 59590 down_left is: 62544
+setting seam_carver[i], min idx = 1
+going through the heights, i = 8address of vertical seam plus i is: 0x208f7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 9address of vertical seam plus i is: 0x208ffa0
+i got to normal instance, and min index is: 2
+down right is: 62465 down is: 67587 down_left is: 67592
+setting seam_carver[i], min idx = 1
+going through the heights, i = 10address of vertical seam plus i is: 0x20907a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 11address of vertical seam plus i is: 0x2090fa0
+i got to normal instance, and min index is: 2
+down right is: 67485 down is: 67537 down_left is: 67555
+setting seam_carver[i], min idx = 1
+going through the heights, i = 12address of vertical seam plus i is: 0x20917a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 13address of vertical seam plus i is: 0x2091fa0
+i got to normal instance, and min index is: 2
+down right is: 67467 down is: 67461 down_left is: 67697
+setting seam_carver[i], min idx = 1
+going through the heights, i = 14address of vertical seam plus i is: 0x20927a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 15address of vertical seam plus i is: 0x2092fa0
+i got to normal instance, and min index is: 2
+down right is: 67496 down is: 67924 down_left is: 67880
+setting seam_carver[i], min idx = 1
+going through the heights, i = 16address of vertical seam plus i is: 0x20937a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 17address of vertical seam plus i is: 0x2093fa0
+i got to normal instance, and min index is: 2
+down right is: 68086 down is: 67710 down_left is: 67861
+setting seam_carver[i], min idx = 1
+going through the heights, i = 18address of vertical seam plus i is: 0x20947a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 19address of vertical seam plus i is: 0x2094fa0
+i got to normal instance, and min index is: 2
+down right is: 66891 down is: 66945 down_left is: 66946
+setting seam_carver[i], min idx = 1
+going through the heights, i = 20address of vertical seam plus i is: 0x20957a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 21address of vertical seam plus i is: 0x2095fa0
+i got to normal instance, and min index is: 2
+down right is: 66906 down is: 67014 down_left is: 67131
+setting seam_carver[i], min idx = 1
+going through the heights, i = 22address of vertical seam plus i is: 0x20967a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 23address of vertical seam plus i is: 0x2096fa0
+i got to normal instance, and min index is: 2
+down right is: 67067 down is: 67198 down_left is: 67298
+setting seam_carver[i], min idx = 1
+going through the heights, i = 24address of vertical seam plus i is: 0x20977a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 25address of vertical seam plus i is: 0x2097fa0
+i got to normal instance, and min index is: 2
+down right is: 67194 down is: 67719 down_left is: 67887
+setting seam_carver[i], min idx = 1
+going through the heights, i = 26address of vertical seam plus i is: 0x20987a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 27address of vertical seam plus i is: 0x2098fa0
+i got to normal instance, and min index is: 2
+down right is: 67402 down is: 67394 down_left is: 68096
+setting seam_carver[i], min idx = 1
+going through the heights, i = 28address of vertical seam plus i is: 0x20997a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 29address of vertical seam plus i is: 0x2099fa0
+i got to normal instance, and min index is: 2
+down right is: 68086 down is: 68050 down_left is: 68046
+setting seam_carver[i], min idx = 1
+going through the heights, i = 30address of vertical seam plus i is: 0x209a7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 31address of vertical seam plus i is: 0x209afa0
+i got to normal instance, and min index is: 2
+down right is: 68043 down is: 68000 down_left is: 67985
+setting seam_carver[i], min idx = 1
+going through the heights, i = 32address of vertical seam plus i is: 0x209b7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 33address of vertical seam plus i is: 0x209bfa0
+i got to normal instance, and min index is: 2
+down right is: 67946 down is: 67917 down_left is: 67949
+setting seam_carver[i], min idx = 1
+going through the heights, i = 34address of vertical seam plus i is: 0x209c7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 35address of vertical seam plus i is: 0x209cfa0
+i got to normal instance, and min index is: 2
+down right is: 67333 down is: 67366 down_left is: 67600
+setting seam_carver[i], min idx = 1
+going through the heights, i = 36address of vertical seam plus i is: 0x209d7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 37address of vertical seam plus i is: 0x209dfa0
+i got to normal instance, and min index is: 2
+down right is: 67356 down is: 70032 down_left is: 71310
+setting seam_carver[i], min idx = 1
+going through the heights, i = 38address of vertical seam plus i is: 0x209e7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 39address of vertical seam plus i is: 0x209efa0
+i got to normal instance, and min index is: 2
+down right is: 69582 down is: 63251 down_left is: 57598
+setting seam_carver[i], min idx = 1
+going through the heights, i = 40address of vertical seam plus i is: 0x209f7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 41address of vertical seam plus i is: 0x209ffa0
+i got to normal instance, and min index is: 2
+down right is: 53967 down is: 52835 down_left is: 52694
+setting seam_carver[i], min idx = 1
+going through the heights, i = 42address of vertical seam plus i is: 0x20a07a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 43address of vertical seam plus i is: 0x20a0fa0
+i got to normal instance, and min index is: 2
+down right is: 52393 down is: 52557 down_left is: 52453
+setting seam_carver[i], min idx = 1
+going through the heights, i = 44address of vertical seam plus i is: 0x20a17a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 45address of vertical seam plus i is: 0x20a1fa0
+i got to normal instance, and min index is: 2
+down right is: 51735 down is: 52008 down_left is: 51656
+setting seam_carver[i], min idx = 1
+going through the heights, i = 46address of vertical seam plus i is: 0x20a27a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 47address of vertical seam plus i is: 0x20a2fa0
+i got to normal instance, and min index is: 2
+down right is: 51965 down is: 51990 down_left is: 51310
+setting seam_carver[i], min idx = 1
+going through the heights, i = 48address of vertical seam plus i is: 0x20a37a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 49address of vertical seam plus i is: 0x20a3fa0
+i got to normal instance, and min index is: 2
+down right is: 50360 down is: 50335 down_left is: 50486
+setting seam_carver[i], min idx = 1
+going through the heights, i = 50address of vertical seam plus i is: 0x20a47a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 51address of vertical seam plus i is: 0x20a4fa0
+i got to normal instance, and min index is: 2
+down right is: 49527 down is: 50058 down_left is: 51167
+setting seam_carver[i], min idx = 1
+going through the heights, i = 52address of vertical seam plus i is: 0x20a57a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 53address of vertical seam plus i is: 0x20a5fa0
+i got to normal instance, and min index is: 2
+down right is: 49133 down is: 52303 down_left is: 49827
+setting seam_carver[i], min idx = 1
+going through the heights, i = 54address of vertical seam plus i is: 0x20a67a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 55address of vertical seam plus i is: 0x20a6fa0
+i got to normal instance, and min index is: 2
+down right is: 46821 down is: 48814 down_left is: 49303
+setting seam_carver[i], min idx = 1
+going through the heights, i = 56address of vertical seam plus i is: 0x20a77a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 57address of vertical seam plus i is: 0x20a7fa0
+i got to normal instance, and min index is: 2
+down right is: 46379 down is: 46693 down_left is: 47019
+setting seam_carver[i], min idx = 1
+going through the heights, i = 58address of vertical seam plus i is: 0x20a87a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 59address of vertical seam plus i is: 0x20a8fa0
+i got to normal instance, and min index is: 2
+down right is: 46771 down is: 46099 down_left is: 46171
+setting seam_carver[i], min idx = 1
+going through the heights, i = 60address of vertical seam plus i is: 0x20a97a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 61address of vertical seam plus i is: 0x20a9fa0
+i got to normal instance, and min index is: 2
+down right is: 45633 down is: 46340 down_left is: 46049
+setting seam_carver[i], min idx = 1
+going through the heights, i = 62address of vertical seam plus i is: 0x20aa7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 63address of vertical seam plus i is: 0x20aafa0
+i got to normal instance, and min index is: 2
+down right is: 45326 down is: 45574 down_left is: 46255
+setting seam_carver[i], min idx = 1
+going through the heights, i = 64address of vertical seam plus i is: 0x20ab7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 65address of vertical seam plus i is: 0x20abfa0
+i got to normal instance, and min index is: 2
+down right is: 45646 down is: 45839 down_left is: 47377
+setting seam_carver[i], min idx = 1
+going through the heights, i = 66address of vertical seam plus i is: 0x20ac7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 67address of vertical seam plus i is: 0x20acfa0
+i got to normal instance, and min index is: 2
+down right is: 43072 down is: 42136 down_left is: 42137
+setting seam_carver[i], min idx = 1
+going through the heights, i = 68address of vertical seam plus i is: 0x20ad7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 69address of vertical seam plus i is: 0x20adfa0
+i got to normal instance, and min index is: 2
+down right is: 41126 down is: 41293 down_left is: 41086
+setting seam_carver[i], min idx = 1
+going through the heights, i = 70address of vertical seam plus i is: 0x20ae7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 71address of vertical seam plus i is: 0x20aefa0
+i got to normal instance, and min index is: 2
+down right is: 40588 down is: 40906 down_left is: 40968
+setting seam_carver[i], min idx = 1
+going through the heights, i = 72address of vertical seam plus i is: 0x20af7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 73address of vertical seam plus i is: 0x20affa0
+i got to normal instance, and min index is: 2
+down right is: 40453 down is: 41031 down_left is: 40713
+setting seam_carver[i], min idx = 1
+going through the heights, i = 74address of vertical seam plus i is: 0x20b07a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 75address of vertical seam plus i is: 0x20b0fa0
+i got to normal instance, and min index is: 2
+down right is: 40562 down is: 40276 down_left is: 40116
+setting seam_carver[i], min idx = 1
+going through the heights, i = 76address of vertical seam plus i is: 0x20b17a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 77address of vertical seam plus i is: 0x20b1fa0
+i got to normal instance, and min index is: 2
+down right is: 39901 down is: 40109 down_left is: 40031
+setting seam_carver[i], min idx = 1
+going through the heights, i = 78address of vertical seam plus i is: 0x20b27a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 79address of vertical seam plus i is: 0x20b2fa0
+i got to normal instance, and min index is: 2
+down right is: 39790 down is: 39953 down_left is: 40194
+setting seam_carver[i], min idx = 1
+going through the heights, i = 80address of vertical seam plus i is: 0x20b37a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 81address of vertical seam plus i is: 0x20b3fa0
+i got to normal instance, and min index is: 2
+down right is: 36488 down is: 36669 down_left is: 36552
+setting seam_carver[i], min idx = 1
+going through the heights, i = 82address of vertical seam plus i is: 0x20b47a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 83address of vertical seam plus i is: 0x20b4fa0
+i got to normal instance, and min index is: 2
+down right is: 36234 down is: 36102 down_left is: 36549
+setting seam_carver[i], min idx = 1
+going through the heights, i = 84address of vertical seam plus i is: 0x20b57a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 85address of vertical seam plus i is: 0x20b5fa0
+i got to normal instance, and min index is: 2
+down right is: 35781 down is: 35682 down_left is: 35925
+setting seam_carver[i], min idx = 1
+going through the heights, i = 86address of vertical seam plus i is: 0x20b67a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 87address of vertical seam plus i is: 0x20b6fa0
+i got to normal instance, and min index is: 2
+down right is: 35592 down is: 35923 down_left is: 36180
+setting seam_carver[i], min idx = 1
+going through the heights, i = 88address of vertical seam plus i is: 0x20b77a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 89address of vertical seam plus i is: 0x20b7fa0
+i got to normal instance, and min index is: 2
+down right is: 36388 down is: 35469 down_left is: 35947
+setting seam_carver[i], min idx = 1
+going through the heights, i = 90address of vertical seam plus i is: 0x20b87a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 91address of vertical seam plus i is: 0x20b8fa0
+i got to normal instance, and min index is: 2
+down right is: 33738 down is: 33940 down_left is: 33894
+setting seam_carver[i], min idx = 1
+going through the heights, i = 92address of vertical seam plus i is: 0x20b97a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 93address of vertical seam plus i is: 0x20b9fa0
+i got to normal instance, and min index is: 2
+down right is: 32958 down is: 32763 down_left is: 32713
+setting seam_carver[i], min idx = 1
+going through the heights, i = 94address of vertical seam plus i is: 0x20ba7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 95address of vertical seam plus i is: 0x20bafa0
+i got to normal instance, and min index is: 2
+down right is: 32204 down is: 32403 down_left is: 32408
+setting seam_carver[i], min idx = 1
+going through the heights, i = 96address of vertical seam plus i is: 0x20bb7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 97address of vertical seam plus i is: 0x20bbfa0
+i got to normal instance, and min index is: 2
+down right is: 32096 down is: 32197 down_left is: 32212
+setting seam_carver[i], min idx = 1
+going through the heights, i = 98address of vertical seam plus i is: 0x20bc7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 99address of vertical seam plus i is: 0x20bcfa0
+i got to normal instance, and min index is: 2
+down right is: 32132 down is: 32141 down_left is: 31917
+setting seam_carver[i], min idx = 1
+going through the heights, i = 100address of vertical seam plus i is: 0x20bd7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 101address of vertical seam plus i is: 0x20bdfa0
+i got to normal instance, and min index is: 2
+down right is: 31838 down is: 31869 down_left is: 31826
+setting seam_carver[i], min idx = 1
+going through the heights, i = 102address of vertical seam plus i is: 0x20be7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 103address of vertical seam plus i is: 0x20befa0
+i got to normal instance, and min index is: 2
+down right is: 31669 down is: 31668 down_left is: 31693
+setting seam_carver[i], min idx = 1
+going through the heights, i = 104address of vertical seam plus i is: 0x20bf7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 105address of vertical seam plus i is: 0x20bffa0
+i got to normal instance, and min index is: 2
+down right is: 31594 down is: 31585 down_left is: 31648
+setting seam_carver[i], min idx = 1
+going through the heights, i = 106address of vertical seam plus i is: 0x20c07a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 107address of vertical seam plus i is: 0x20c0fa0
+i got to normal instance, and min index is: 2
+down right is: 31536 down is: 31410 down_left is: 31405
+setting seam_carver[i], min idx = 1
+going through the heights, i = 108address of vertical seam plus i is: 0x20c17a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 109address of vertical seam plus i is: 0x20c1fa0
+i got to normal instance, and min index is: 2
+down right is: 31433 down is: 31515 down_left is: 31362
+setting seam_carver[i], min idx = 1
+going through the heights, i = 110address of vertical seam plus i is: 0x20c27a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 111address of vertical seam plus i is: 0x20c2fa0
+i got to normal instance, and min index is: 2
+down right is: 31250 down is: 31260 down_left is: 31370
+setting seam_carver[i], min idx = 1
+going through the heights, i = 112address of vertical seam plus i is: 0x20c37a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 113address of vertical seam plus i is: 0x20c3fa0
+i got to normal instance, and min index is: 2
+down right is: 31194 down is: 31278 down_left is: 31350
+setting seam_carver[i], min idx = 1
+going through the heights, i = 114address of vertical seam plus i is: 0x20c47a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 115address of vertical seam plus i is: 0x20c4fa0
+i got to normal instance, and min index is: 2
+down right is: 31242 down is: 31302 down_left is: 31365
+setting seam_carver[i], min idx = 1
+going through the heights, i = 116address of vertical seam plus i is: 0x20c57a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 117address of vertical seam plus i is: 0x20c5fa0
+i got to normal instance, and min index is: 2
+down right is: 30975 down is: 30960 down_left is: 31064
+setting seam_carver[i], min idx = 1
+going through the heights, i = 118address of vertical seam plus i is: 0x20c67a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 119address of vertical seam plus i is: 0x20c6fa0
+i got to normal instance, and min index is: 2
+down right is: 30984 down is: 30991 down_left is: 30943
+setting seam_carver[i], min idx = 1
+going through the heights, i = 120address of vertical seam plus i is: 0x20c77a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 121address of vertical seam plus i is: 0x20c7fa0
+i got to normal instance, and min index is: 2
+down right is: 30914 down is: 30946 down_left is: 30957
+setting seam_carver[i], min idx = 1
+going through the heights, i = 122address of vertical seam plus i is: 0x20c87a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 123address of vertical seam plus i is: 0x20c8fa0
+i got to normal instance, and min index is: 2
+down right is: 30816 down is: 30922 down_left is: 30921
+setting seam_carver[i], min idx = 1
+going through the heights, i = 124address of vertical seam plus i is: 0x20c97a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 125address of vertical seam plus i is: 0x20c9fa0
+i got to normal instance, and min index is: 2
+down right is: 30714 down is: 30649 down_left is: 30747
+setting seam_carver[i], min idx = 1
+going through the heights, i = 126address of vertical seam plus i is: 0x20ca7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 127address of vertical seam plus i is: 0x20cafa0
+i got to normal instance, and min index is: 2
+down right is: 30577 down is: 30666 down_left is: 30697
+setting seam_carver[i], min idx = 1
+going through the heights, i = 128address of vertical seam plus i is: 0x20cb7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 129address of vertical seam plus i is: 0x20cbfa0
+i got to normal instance, and min index is: 2
+down right is: 30673 down is: 30598 down_left is: 30526
+setting seam_carver[i], min idx = 1
+going through the heights, i = 130address of vertical seam plus i is: 0x20cc7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 131address of vertical seam plus i is: 0x20ccfa0
+i got to normal instance, and min index is: 2
+down right is: 30439 down is: 30436 down_left is: 30697
+setting seam_carver[i], min idx = 1
+going through the heights, i = 132address of vertical seam plus i is: 0x20cd7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 133address of vertical seam plus i is: 0x20cdfa0
+i got to normal instance, and min index is: 2
+down right is: 30566 down is: 30624 down_left is: 30790
+setting seam_carver[i], min idx = 1
+going through the heights, i = 134address of vertical seam plus i is: 0x20ce7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 135address of vertical seam plus i is: 0x20cefa0
+i got to normal instance, and min index is: 2
+down right is: 30543 down is: 30674 down_left is: 30860
+setting seam_carver[i], min idx = 1
+going through the heights, i = 136address of vertical seam plus i is: 0x20cf7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 137address of vertical seam plus i is: 0x20cffa0
+i got to normal instance, and min index is: 2
+down right is: 30657 down is: 30621 down_left is: 30789
+setting seam_carver[i], min idx = 1
+going through the heights, i = 138address of vertical seam plus i is: 0x20d07a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 139address of vertical seam plus i is: 0x20d0fa0
+i got to normal instance, and min index is: 2
+down right is: 30709 down is: 30594 down_left is: 30591
+setting seam_carver[i], min idx = 1
+going through the heights, i = 140address of vertical seam plus i is: 0x20d17a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 141address of vertical seam plus i is: 0x20d1fa0
+i got to normal instance, and min index is: 2
+down right is: 30723 down is: 30591 down_left is: 30586
+setting seam_carver[i], min idx = 1
+going through the heights, i = 142address of vertical seam plus i is: 0x20d27a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 143address of vertical seam plus i is: 0x20d2fa0
+i got to normal instance, and min index is: 2
+down right is: 30505 down is: 30516 down_left is: 30907
+setting seam_carver[i], min idx = 1
+going through the heights, i = 144address of vertical seam plus i is: 0x20d37a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 145address of vertical seam plus i is: 0x20d3fa0
+i got to normal instance, and min index is: 2
+down right is: 30733 down is: 30800 down_left is: 31546
+setting seam_carver[i], min idx = 1
+going through the heights, i = 146address of vertical seam plus i is: 0x20d47a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 147address of vertical seam plus i is: 0x20d4fa0
+i got to normal instance, and min index is: 2
+down right is: 31200 down is: 31461 down_left is: 31849
+setting seam_carver[i], min idx = 1
+going through the heights, i = 148address of vertical seam plus i is: 0x20d57a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 149address of vertical seam plus i is: 0x20d5fa0
+i got to normal instance, and min index is: 2
+down right is: 30671 down is: 30752 down_left is: 30839
+setting seam_carver[i], min idx = 1
+going through the heights, i = 150address of vertical seam plus i is: 0x20d67a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 151address of vertical seam plus i is: 0x20d6fa0
+i got to normal instance, and min index is: 2
+down right is: 30608 down is: 30647 down_left is: 30640
+setting seam_carver[i], min idx = 1
+going through the heights, i = 152address of vertical seam plus i is: 0x20d77a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 153address of vertical seam plus i is: 0x20d7fa0
+i got to normal instance, and min index is: 2
+down right is: 30539 down is: 30608 down_left is: 30761
+setting seam_carver[i], min idx = 1
+going through the heights, i = 154address of vertical seam plus i is: 0x20d87a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 155address of vertical seam plus i is: 0x20d8fa0
+i got to normal instance, and min index is: 2
+down right is: 30434 down is: 30353 down_left is: 30353
+setting seam_carver[i], min idx = 1
+going through the heights, i = 156address of vertical seam plus i is: 0x20d97a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 157address of vertical seam plus i is: 0x20d9fa0
+i got to normal instance, and min index is: 2
+down right is: 30359 down is: 30308 down_left is: 30311
+setting seam_carver[i], min idx = 1
+going through the heights, i = 158address of vertical seam plus i is: 0x20da7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 159address of vertical seam plus i is: 0x20dafa0
+i got to normal instance, and min index is: 2
+down right is: 30176 down is: 30512 down_left is: 30716
+setting seam_carver[i], min idx = 1
+going through the heights, i = 160address of vertical seam plus i is: 0x20db7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 161address of vertical seam plus i is: 0x20dbfa0
+i got to normal instance, and min index is: 2
+down right is: 30449 down is: 30452 down_left is: 30560
+setting seam_carver[i], min idx = 1
+going through the heights, i = 162address of vertical seam plus i is: 0x20dc7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 163address of vertical seam plus i is: 0x20dcfa0
+i got to normal instance, and min index is: 2
+down right is: 30290 down is: 30694 down_left is: 30983
+setting seam_carver[i], min idx = 1
+going through the heights, i = 164address of vertical seam plus i is: 0x20dd7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 165address of vertical seam plus i is: 0x20ddfa0
+i got to normal instance, and min index is: 2
+down right is: 30911 down is: 31105 down_left is: 31113
+setting seam_carver[i], min idx = 1
+going through the heights, i = 166address of vertical seam plus i is: 0x20de7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 167address of vertical seam plus i is: 0x20defa0
+i got to normal instance, and min index is: 2
+down right is: 31051 down is: 31098 down_left is: 31099
+setting seam_carver[i], min idx = 1
+going through the heights, i = 168address of vertical seam plus i is: 0x20df7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 169address of vertical seam plus i is: 0x20dffa0
+i got to normal instance, and min index is: 2
+down right is: 31012 down is: 31465 down_left is: 31314
+setting seam_carver[i], min idx = 1
+going through the heights, i = 170address of vertical seam plus i is: 0x20e07a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 171address of vertical seam plus i is: 0x20e0fa0
+i got to normal instance, and min index is: 2
+down right is: 31198 down is: 31415 down_left is: 31259
+setting seam_carver[i], min idx = 1
+going through the heights, i = 172address of vertical seam plus i is: 0x20e17a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 173address of vertical seam plus i is: 0x20e1fa0
+i got to normal instance, and min index is: 2
+down right is: 31194 down is: 31236 down_left is: 31260
+setting seam_carver[i], min idx = 1
+going through the heights, i = 174address of vertical seam plus i is: 0x20e27a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 175address of vertical seam plus i is: 0x20e2fa0
+i got to normal instance, and min index is: 2
+down right is: 31236 down is: 31257 down_left is: 31260
+setting seam_carver[i], min idx = 1
+going through the heights, i = 176address of vertical seam plus i is: 0x20e37a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 177address of vertical seam plus i is: 0x20e3fa0
+i got to normal instance, and min index is: 2
+down right is: 31191 down is: 31227 down_left is: 31203
+setting seam_carver[i], min idx = 1
+going through the heights, i = 178address of vertical seam plus i is: 0x20e47a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 179address of vertical seam plus i is: 0x20e4fa0
+i got to normal instance, and min index is: 2
+down right is: 31176 down is: 31442 down_left is: 31595
+setting seam_carver[i], min idx = 1
+going through the heights, i = 180address of vertical seam plus i is: 0x20e57a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 181address of vertical seam plus i is: 0x20e5fa0
+i got to normal instance, and min index is: 2
+down right is: 31324 down is: 31280 down_left is: 31358
+setting seam_carver[i], min idx = 1
+going through the heights, i = 182address of vertical seam plus i is: 0x20e67a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 183address of vertical seam plus i is: 0x20e6fa0
+i got to normal instance, and min index is: 2
+down right is: 31138 down is: 31173 down_left is: 31251
+setting seam_carver[i], min idx = 1
+going through the heights, i = 184address of vertical seam plus i is: 0x20e77a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 185address of vertical seam plus i is: 0x20e7fa0
+i got to normal instance, and min index is: 2
+down right is: 31083 down is: 31086 down_left is: 31074
+setting seam_carver[i], min idx = 1
+going through the heights, i = 186address of vertical seam plus i is: 0x20e87a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 187address of vertical seam plus i is: 0x20e8fa0
+i got to normal instance, and min index is: 2
+down right is: 31065 down is: 31156 down_left is: 31144
+setting seam_carver[i], min idx = 1
+going through the heights, i = 188address of vertical seam plus i is: 0x20e97a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 189address of vertical seam plus i is: 0x20e9fa0
+i got to normal instance, and min index is: 2
+down right is: 31120 down is: 31244 down_left is: 31389
+setting seam_carver[i], min idx = 1
+going through the heights, i = 190address of vertical seam plus i is: 0x20ea7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 191address of vertical seam plus i is: 0x20eafa0
+i got to normal instance, and min index is: 2
+down right is: 31303 down is: 31322 down_left is: 31370
+setting seam_carver[i], min idx = 1
+going through the heights, i = 192address of vertical seam plus i is: 0x20eb7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 193address of vertical seam plus i is: 0x20ebfa0
+i got to normal instance, and min index is: 2
+down right is: 31214 down is: 31749 down_left is: 31671
+setting seam_carver[i], min idx = 1
+going through the heights, i = 194address of vertical seam plus i is: 0x20ec7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 195address of vertical seam plus i is: 0x20ecfa0
+i got to normal instance, and min index is: 2
+down right is: 31143 down is: 31167 down_left is: 31164
+setting seam_carver[i], min idx = 1
+going through the heights, i = 196address of vertical seam plus i is: 0x20ed7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 197address of vertical seam plus i is: 0x20edfa0
+i got to normal instance, and min index is: 2
+down right is: 31113 down is: 31110 down_left is: 31170
+setting seam_carver[i], min idx = 1
+going through the heights, i = 198address of vertical seam plus i is: 0x20ee7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 199address of vertical seam plus i is: 0x20eefa0
+i got to normal instance, and min index is: 2
+down right is: 30720 down is: 30883 down_left is: 30961
+setting seam_carver[i], min idx = 1
+going through the heights, i = 200address of vertical seam plus i is: 0x20ef7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 201address of vertical seam plus i is: 0x20effa0
+i got to normal instance, and min index is: 2
+down right is: 30838 down is: 31139 down_left is: 31196
+setting seam_carver[i], min idx = 1
+going through the heights, i = 202address of vertical seam plus i is: 0x20f07a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 203address of vertical seam plus i is: 0x20f0fa0
+i got to normal instance, and min index is: 2
+down right is: 30986 down is: 31043 down_left is: 31139
+setting seam_carver[i], min idx = 1
+going through the heights, i = 204address of vertical seam plus i is: 0x20f17a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 205address of vertical seam plus i is: 0x20f1fa0
+i got to normal instance, and min index is: 2
+down right is: 30812 down is: 30871 down_left is: 30902
+setting seam_carver[i], min idx = 1
+going through the heights, i = 206address of vertical seam plus i is: 0x20f27a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 207address of vertical seam plus i is: 0x20f2fa0
+i got to normal instance, and min index is: 2
+down right is: 30955 down is: 30824 down_left is: 30711
+setting seam_carver[i], min idx = 1
+going through the heights, i = 208address of vertical seam plus i is: 0x20f37a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 209address of vertical seam plus i is: 0x20f3fa0
+i got to normal instance, and min index is: 2
+down right is: 30642 down is: 30667 down_left is: 30773
+setting seam_carver[i], min idx = 1
+going through the heights, i = 210address of vertical seam plus i is: 0x20f47a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 211address of vertical seam plus i is: 0x20f4fa0
+i got to normal instance, and min index is: 2
+down right is: 30589 down is: 30479 down_left is: 30807
+setting seam_carver[i], min idx = 1
+going through the heights, i = 212address of vertical seam plus i is: 0x20f57a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 213address of vertical seam plus i is: 0x20f5fa0
+i got to normal instance, and min index is: 2
+down right is: 30477 down is: 30617 down_left is: 30572
+setting seam_carver[i], min idx = 1
+going through the heights, i = 214address of vertical seam plus i is: 0x20f67a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 215address of vertical seam plus i is: 0x20f6fa0
+i got to normal instance, and min index is: 2
+down right is: 30419 down is: 30461 down_left is: 30608
+setting seam_carver[i], min idx = 1
+going through the heights, i = 216address of vertical seam plus i is: 0x20f77a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 217address of vertical seam plus i is: 0x20f7fa0
+i got to normal instance, and min index is: 2
+down right is: 30389 down is: 30389 down_left is: 30467
+setting seam_carver[i], min idx = 1
+going through the heights, i = 218address of vertical seam plus i is: 0x20f87a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 219address of vertical seam plus i is: 0x20f8fa0
+i got to normal instance, and min index is: 2
+down right is: 30461 down is: 30618 down_left is: 30621
+setting seam_carver[i], min idx = 1
+going through the heights, i = 220address of vertical seam plus i is: 0x20f97a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 221address of vertical seam plus i is: 0x20f9fa0
+i got to normal instance, and min index is: 2
+down right is: 30510 down is: 30525 down_left is: 30480
+setting seam_carver[i], min idx = 1
+going through the heights, i = 222address of vertical seam plus i is: 0x20fa7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 223address of vertical seam plus i is: 0x20fafa0
+i got to normal instance, and min index is: 2
+down right is: 30450 down is: 30474 down_left is: 30631
+setting seam_carver[i], min idx = 1
+going through the heights, i = 224address of vertical seam plus i is: 0x20fb7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 225address of vertical seam plus i is: 0x20fbfa0
+i got to normal instance, and min index is: 2
+down right is: 30577 down is: 30653 down_left is: 30680
+setting seam_carver[i], min idx = 1
+going through the heights, i = 226address of vertical seam plus i is: 0x20fc7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 227address of vertical seam plus i is: 0x20fcfa0
+i got to normal instance, and min index is: 2
+down right is: 30656 down is: 31082 down_left is: 31617
+setting seam_carver[i], min idx = 1
+going through the heights, i = 228address of vertical seam plus i is: 0x20fd7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 229address of vertical seam plus i is: 0x20fdfa0
+i got to normal instance, and min index is: 2
+down right is: 31518 down is: 31601 down_left is: 31637
+setting seam_carver[i], min idx = 1
+going through the heights, i = 230address of vertical seam plus i is: 0x20fe7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 231address of vertical seam plus i is: 0x20fefa0
+i got to normal instance, and min index is: 2
+down right is: 31547 down is: 31746 down_left is: 31809
+setting seam_carver[i], min idx = 1
+going through the heights, i = 232address of vertical seam plus i is: 0x20ff7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 233address of vertical seam plus i is: 0x20fffa0
+i got to normal instance, and min index is: 2
+down right is: 31755 down is: 31900 down_left is: 31960
+setting seam_carver[i], min idx = 1
+going through the heights, i = 234address of vertical seam plus i is: 0x21007a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 235address of vertical seam plus i is: 0x2100fa0
+i got to normal instance, and min index is: 2
+down right is: 31588 down is: 31662 down_left is: 31794
+setting seam_carver[i], min idx = 1
+going through the heights, i = 236address of vertical seam plus i is: 0x21017a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 237address of vertical seam plus i is: 0x2101fa0
+i got to normal instance, and min index is: 2
+down right is: 31311 down is: 31301 down_left is: 31314
+setting seam_carver[i], min idx = 1
+going through the heights, i = 238address of vertical seam plus i is: 0x21027a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 239address of vertical seam plus i is: 0x2102fa0
+i got to normal instance, and min index is: 2
+down right is: 31243 down is: 31322 down_left is: 31494
+setting seam_carver[i], min idx = 1
+going through the heights, i = 240address of vertical seam plus i is: 0x21037a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 241address of vertical seam plus i is: 0x2103fa0
+i got to normal instance, and min index is: 2
+down right is: 31063 down is: 31121 down_left is: 31169
+setting seam_carver[i], min idx = 1
+going through the heights, i = 242address of vertical seam plus i is: 0x21047a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 243address of vertical seam plus i is: 0x2104fa0
+i got to normal instance, and min index is: 2
+down right is: 30962 down is: 30974 down_left is: 30991
+setting seam_carver[i], min idx = 1
+going through the heights, i = 244address of vertical seam plus i is: 0x21057a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 245address of vertical seam plus i is: 0x2105fa0
+i got to normal instance, and min index is: 2
+down right is: 30968 down is: 30931 down_left is: 31065
+setting seam_carver[i], min idx = 1
+going through the heights, i = 246address of vertical seam plus i is: 0x21067a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 247address of vertical seam plus i is: 0x2106fa0
+i got to normal instance, and min index is: 2
+down right is: 31123 down is: 30903 down_left is: 30925
+setting seam_carver[i], min idx = 1
+going through the heights, i = 248address of vertical seam plus i is: 0x21077a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 249address of vertical seam plus i is: 0x2107fa0
+i got to normal instance, and min index is: 2
+down right is: 30658 down is: 30768 down_left is: 30793
+setting seam_carver[i], min idx = 1
+going through the heights, i = 250address of vertical seam plus i is: 0x21087a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 251address of vertical seam plus i is: 0x2108fa0
+i got to normal instance, and min index is: 2
+down right is: 30577 down is: 30586 down_left is: 30615
+setting seam_carver[i], min idx = 1
+going through the heights, i = 252address of vertical seam plus i is: 0x21097a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 253address of vertical seam plus i is: 0x2109fa0
+i got to normal instance, and min index is: 2
+down right is: 30543 down is: 30571 down_left is: 30710
+setting seam_carver[i], min idx = 1
+going through the heights, i = 254address of vertical seam plus i is: 0x210a7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 255address of vertical seam plus i is: 0x210afa0
+i got to normal instance, and min index is: 2
+down right is: 30629 down is: 30651 down_left is: 31454
+setting seam_carver[i], min idx = 1
+going through the heights, i = 256address of vertical seam plus i is: 0x210b7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 257address of vertical seam plus i is: 0x210bfa0
+i got to normal instance, and min index is: 2
+down right is: 31404 down is: 31546 down_left is: 33198
+setting seam_carver[i], min idx = 1
+going through the heights, i = 258address of vertical seam plus i is: 0x210c7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 259address of vertical seam plus i is: 0x210cfa0
+i got to normal instance, and min index is: 2
+down right is: 32763 down is: 33651 down_left is: 33742
+setting seam_carver[i], min idx = 1
+going through the heights, i = 260address of vertical seam plus i is: 0x210d7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 261address of vertical seam plus i is: 0x210dfa0
+i got to normal instance, and min index is: 2
+down right is: 33283 down is: 33295 down_left is: 33391
+setting seam_carver[i], min idx = 1
+going through the heights, i = 262address of vertical seam plus i is: 0x210e7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 263address of vertical seam plus i is: 0x210efa0
+i got to normal instance, and min index is: 2
+down right is: 33234 down is: 33303 down_left is: 33270
+setting seam_carver[i], min idx = 1
+going through the heights, i = 264address of vertical seam plus i is: 0x210f7a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 265address of vertical seam plus i is: 0x210ffa0
+i got to normal instance, and min index is: 2
+down right is: 33133 down is: 33170 down_left is: 33167
+setting seam_carver[i], min idx = 1
+going through the heights, i = 266address of vertical seam plus i is: 0x21107a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 267address of vertical seam plus i is: 0x2110fa0
+i got to normal instance, and min index is: 2
+down right is: 32988 down is: 33022 down_left is: 33049
+setting seam_carver[i], min idx = 1
+going through the heights, i = 268address of vertical seam plus i is: 0x21117a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 269address of vertical seam plus i is: 0x2111fa0
+i got to normal instance, and min index is: 2
+down right is: 32952 down is: 33088 down_left is: 33016
+setting seam_carver[i], min idx = 1
+going through the heights, i = 270address of vertical seam plus i is: 0x21127a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 271address of vertical seam plus i is: 0x2112fa0
+i got to normal instance, and min index is: 2
+down right is: 32901 down is: 32914 down_left is: 32923
+setting seam_carver[i], min idx = 1
+going through the heights, i = 272address of vertical seam plus i is: 0x21137a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 273address of vertical seam plus i is: 0x2113fa0
+i got to normal instance, and min index is: 2
+down right is: 32874 down is: 32871 down_left is: 32883
+setting seam_carver[i], min idx = 1
+going through the heights, i = 274address of vertical seam plus i is: 0x21147a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 275address of vertical seam plus i is: 0x2114fa0
+i got to normal instance, and min index is: 2
+down right is: 32801 down is: 32794 down_left is: 32796
+setting seam_carver[i], min idx = 1
+going through the heights, i = 276address of vertical seam plus i is: 0x21157a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 277address of vertical seam plus i is: 0x2115fa0
+i got to normal instance, and min index is: 2
+down right is: 32896 down is: 32785 down_left is: 32782
+setting seam_carver[i], min idx = 1
+going through the heights, i = 278address of vertical seam plus i is: 0x21167a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 279address of vertical seam plus i is: 0x2116fa0
+i got to normal instance, and min index is: 2
+down right is: 32777 down is: 32770 down_left is: 32697
+setting seam_carver[i], min idx = 1
+going through the heights, i = 280address of vertical seam plus i is: 0x21177a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 281address of vertical seam plus i is: 0x2117fa0
+i got to normal instance, and min index is: 2
+down right is: 32714 down is: 32598 down_left is: 32588
+setting seam_carver[i], min idx = 1
+going through the heights, i = 282address of vertical seam plus i is: 0x21187a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+going through the heights, i = 283address of vertical seam plus i is: 0x2118fa0
+i got to normal instance, and min index is: 2
+down right is: 36659 down is: 34259 down_left is: 32549
+setting seam_carver[i], min idx = 1
+going through the heights, i = 284address of vertical seam plus i is: 0x21197a0
+i got to min - 1 exception, and min index is: 1
+setting seam_carver[i], min idx = 2
+CarveSeamVertical was successfully implemented
+vertical seam was removed successfully
+done removing vertical seam, t = 0
+i am here

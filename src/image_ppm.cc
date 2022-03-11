@@ -2,6 +2,19 @@
 
 // implement the rest of ImagePPM's functions here
 
+Pixel ImagePPM::GetPixel(int row, int col) const {
+    Pixel* p_row_pixel = *(pixels_ + row);
+    Pixel pixel = *(p_row_pixel + col);
+    //std::cout << "address of pixels_ is: " << pixels_ << std::endl;
+    //std::cout << "new row of pixels_ is:" <<pixels_ + 1 << std::endl;
+    return pixel;
+
+}
+
+int ImagePPM::GetMaxColorValue() const {
+  return max_color_value_;
+}
+
 // given functions below, DO NOT MODIFY
 
 ImagePPM::ImagePPM(const std::string& path) {
@@ -49,6 +62,23 @@ void ImagePPM::Clear() {
   pixels_ = nullptr;
 }
 
+std::ostream& operator<<(std::ostream& os, const ImagePPM& image) {
+  //to do implement me
+  os << "P3" << std::endl;
+  os << image.width_ << " " << image.height_ << std::endl;
+  os << image.max_color_value_ << std::endl;
+  for (int row = 0; row < image.height_; row++) {
+    for (int col = 0; col < image.width_; col++) {
+      Pixel pixel = image.pixels_[row][col];
+      os << pixel.GetRed() << '\n';
+      os << pixel.GetGreen() << '\n';
+      os << pixel.GetBlue() << '\n';
+    }
+  }
+  return os;
+}
+
+
 std::istream& operator>>(std::istream& is, ImagePPM& image) {
   image.Clear();
   std::string line;
@@ -85,4 +115,58 @@ std::istream& operator>>(std::istream& is, ImagePPM& image) {
     }
   }
   return is;
+}
+
+void ImagePPM::RemoveHorizontalSeam(int* horizontal_seam) {
+  //create 2d array with one less height
+  Pixel** pixels = new Pixel*[height_ - 1];
+  std::cout << "height is: " << height_ - 1 << "width is: " << width_ << std::endl;
+
+  for (int row = 0; row < height_ -  1; row++) {
+    pixels[row] = new Pixel[width_];
+  }
+  int nrow = 0;
+  for (int col = 0; col < width_; col++) {
+    for (int row = 0; row < height_; row++) {
+      if (horizontal_seam[col] != row) {
+        if (nrow == height_ - 1) {
+          std::cout << "nrow is: " << nrow << " col is: " << col << std::endl;
+          std::cout << "horizontal_seam[col] is: " << horizontal_seam[col] << std::endl;
+        }
+        pixels[nrow][col] = pixels_[row][col];
+        nrow++;
+      }
+    }
+    nrow = 0;
+  }
+  pixels_ = pixels;
+  height_ = height_ - 1;
+
+  delete[] horizontal_seam;
+  horizontal_seam = nullptr;
+}
+
+void ImagePPM::RemoveVerticalSeam(int* vertical_seam) {
+  //create 2d array with one less width
+  Pixel** pixels = new Pixel*[height_];
+  std::cout << "height is: " << height_ << "width is: " << width_ - 1 << std::endl;
+  for (int row = 0; row < height_; row++) {
+    pixels[row] = new Pixel[width_ - 1];
+  }
+  int ncol = 0;
+  for (int row = 0; row < height_; row++) {
+    for (int col = 0; col < width_; col++) {
+      if (vertical_seam[row] != col) {
+        //std::cout << "ncol is: " << ncol << "row is: " << row << std::endl;
+        pixels[row][ncol] = pixels_[row][col];
+        ncol++;
+      }
+    }
+    ncol = 0;
+  }
+  pixels_ = pixels;
+  width_ = width_ - 1;
+
+  delete[] vertical_seam;
+  vertical_seam = nullptr;
 }

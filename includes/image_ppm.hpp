@@ -64,6 +64,9 @@ public:
    * Add any helper methods you may need
    */
 
+  void RemoveHorizontalSeam(int* horizontal_seam);
+  void RemoveVerticalSeam(int* vertical_seam);
+
 private:
   int height_ = 0;
   int width_ = 0;

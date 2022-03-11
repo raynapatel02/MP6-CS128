@@ -46,6 +46,8 @@ public:
   // ---+---+---+---
   //    |   |   | x
   // returns {1, 0, 1, 2}
+
+
   int* GetHorizontalSeam() const;
 
   // returns the vertical seam of image_ with the least amount of
@@ -82,6 +84,8 @@ public:
   //  0 | 5 | 2 | 3
   // ---+---+---+---
   //  8 | 9 | 10| 7
+
+
   void RemoveHorizontalSeam();
 
   // removes one vertical seam in image_. example:
@@ -111,6 +115,13 @@ public:
   /**
    * Add any helper methods you may need
    */
+  int FindMin(int num_1, int num_2, int num_3) const;
+  int FindMinIdx(int num_1, int idx_1, int num_2, int idx_2, int num_3, int idx_3) const;
+  int FindMinIdx(int num_1, int idx_1, int num_2, int idx_2) const;
+  int* CarveSeamVertical() const;
+  int* CarveSeamHorizontal() const;
+
+
 
 private:
   ImagePPM image_;
@@ -120,6 +131,7 @@ private:
   /**
    * Add any helper methods you may need
    */
+  int const kMaxNum = 99999;
 };
 
 #endif
